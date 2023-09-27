@@ -1,6 +1,5 @@
 <h1>Hi, I'm Rahim! 
-  
-<a href="https://linkedin.com/in/rshabazzpro">IT & Cybersecurity Professional </a></h1>
+An <a href="https://linkedin.com/in/rshabazzpro">IT & Cybersecurity Professional </a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
